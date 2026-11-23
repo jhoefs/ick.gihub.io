@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+# uncomment these and delete above line when ready to release
+#Allow: /
+#Disallow:
